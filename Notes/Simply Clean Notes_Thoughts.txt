@@ -1,0 +1,40 @@
+Simply Clean Windows
+
+~ Mission Statement
+~ Services: Residental / Commercial
+~ Before and After image place top center
+~ FAQs
+~ Pricing / Request a quote / contact us
+~ About
+~ Contact us
+~ link to social media
+~
+
+
+Logo     <banner> About  Mission Statement  Services   Pricing   Testimonals  Contact <banner>   Logo
+
+
+
+
+			                  <Image of Before and After>
+
+
+The thunder picture isn't displaying center
+
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+
+<p id="demo"></p>
+
+<link href="https://fonts.googleapis.com/css?family=Farsan|Henny+Penny" rel="stylesheet">
+
+<style>
+	body {
+		font-family: 'Henny Penny', cursive;
+		font-family: 'Farsan', cursive;
+}
+</style>
+
+
+ABOUT PAGE will contain pictures of windows cleaned. 
