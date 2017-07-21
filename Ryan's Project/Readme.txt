@@ -12,3 +12,5 @@ Read Me Statement for Ryan's Project.
 
 Contact.html is the form to fill out for a free estimate.
 Requiring all information before being able to submit.
+
+At the bottom of each page is a footer showing my name and email address.
